@@ -12,3 +12,7 @@ Ich denke aber, das sollte jetzt mal reichen.
 * duenn
 * oben
 * unten
+
+As Heinrich Luebke would have said
+
+> Yippie Aiyeh, Schweinebacke
